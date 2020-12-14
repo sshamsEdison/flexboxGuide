@@ -1,0 +1,22 @@
+.green-child {
+    background-color: lightgreen;
+}
+
+.blue-child {
+    background-color: lightblue;
+}
+
+.teal-child {
+    background-color: #00FFCC;
+}
+
+div {
+    margin: 10px;
+    padding: 10px;
+}
+
+.parent {
+	display: flex;
+    background-color: red;
+    justify-content: space-between;
+}
